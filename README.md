@@ -108,8 +108,7 @@ streamlit run app.py
  ┃ ┗ 📜 analysis.ipynb      # Exploratory analysis & testing
  ┗ 📂 models                # Saved models (optional)
 
-👨‍💻 Author
 
-Kishore Kumar
-🚀 Passionate about AI/ML, Data Science, and Sustainable Technology.
+**👨‍💻 Author
+Kishore Kumar**
 
